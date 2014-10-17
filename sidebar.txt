@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hac:home|Door43 (hac)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hac|d43-hac repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hac/archive/master.zip|d43-hac.zip]]
+
+**Recent Changes**
+{{changes>ns = hac}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hac|Ethnologue data]]
+
